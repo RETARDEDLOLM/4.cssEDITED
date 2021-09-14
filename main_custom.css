@@ -1,10 +1,3 @@
-/*4.am clan private css*/
-
-
-/* @note        scamgiri#0001 is not working on the CSS anymore and the updates are provided by Envy#9335 | all the codes [other than the loading screen, ty KraXen72#9190] are made by either Envy#9335 or scamgiri#0001,
-
-/*Section 0: base*/
-
 #mainLogo {
 	z-index: -999999!important;
 }
@@ -1528,7 +1521,7 @@ input[type=color] {
 /*Terms Area*/
 
 #termsInfo:before {
-	content: '4.am krunker';
+	content: '4.am EDITED krunker';
 	font-size: 20px;
 	color: #fff;
 	position: fixed;
