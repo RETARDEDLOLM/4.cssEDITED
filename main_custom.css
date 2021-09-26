@@ -16,10 +16,14 @@
 
 /*Section 1: menu*/
 
+.menuSocialB {
+    cursor: pointer;
+    display: none;
+}
+
 .mailText {
 	color: rgb(255, 255, 255) !important;
 }
-
 .mailObj {
 	transition-duration: 0.5s;
 	color: rgb(255, 255, 255) !important;
